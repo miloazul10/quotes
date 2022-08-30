@@ -1,0 +1,16 @@
+.App{
+  text-align: center;
+}
+
+.card{
+  background: #fff;
+  height: 200px;
+  width:  400px;
+  margin: 0 auto;
+ 
+}
+
+.card h1 {
+  text-align: left;
+}
+
