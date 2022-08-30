@@ -1,2 +1,2 @@
 # quotes
-//https://quotesolivermorales.netlify.app/
+https://quotesolivermorales.netlify.app/
